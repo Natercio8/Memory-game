@@ -1,9 +1,9 @@
 # Memory-game
 # Jogo da memória
 
-Digite todos os números que forem informados pelo computador...
-\n
-Exemplo:
+#Digite todos os números que forem informados pelo computador...
+
+#Exemplo:
 Computador: 0
 Eu: 0
 Computador: 1
