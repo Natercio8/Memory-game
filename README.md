@@ -2,6 +2,7 @@
 # Jogo da memória
 
 Digite todos os números que forem informados pelo computador...
+\n
 Exemplo:
 Computador: 0
 Eu: 0
